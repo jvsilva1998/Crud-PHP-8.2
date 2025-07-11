@@ -6,7 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## Sistema de Gerenciamento de Produtos - Laravel 11
+
 Este repositório contém a implementação de um Sistema de Gerenciamento de Produtos desenvolvido com o framework Laravel. O sistema permite o gerenciamento completo de produtos, incluindo funcionalidades como criação, edição, exclusão, exportação, e importação de dados, com suporte para formatos como PDF, CSV e Excel.
 
 Funcionalidades
