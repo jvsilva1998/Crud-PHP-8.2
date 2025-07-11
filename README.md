@@ -6,7 +6,39 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Sistema de Gerenciamento de Produtos - Laravel 11
+Este repositório contém a implementação de um Sistema de Gerenciamento de Produtos desenvolvido com o framework Laravel. O sistema permite o gerenciamento completo de produtos, incluindo funcionalidades como criação, edição, exclusão, exportação, e importação de dados, com suporte para formatos como PDF, CSV e Excel.
 
+Funcionalidades
+Gestão Completa de Produtos: Criação, leitura, atualização e exclusão de produtos.
+
+Exportação:
+
+Exportação dos produtos para PDF, CSV ou Excel.
+
+Importação: Importação de produtos a partir de arquivos CSV.
+
+Relatórios em PDF: Geração de relatórios em formato PDF com a lista de produtos.
+
+Tecnologias Utilizadas
+Laravel: Framework PHP robusto e de fácil manutenção.
+
+Bootstrap 5: Framework CSS para criação de interfaces responsivas e modernas.
+
+FontAwesome: Conjunto de ícones para melhorar a interface do usuário.
+
+Maatwebsite Excel: Biblioteca para exportação e importação de dados nos formatos Excel e CSV.
+
+DOMPDF: Biblioteca para geração de PDFs no Laravel.
+
+Requisitos
+Para rodar este projeto, você precisará do seguinte ambiente:
+
+PHP 8.2.
+
+Composer.
+
+Banco de dados MySQL ou similar.
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
